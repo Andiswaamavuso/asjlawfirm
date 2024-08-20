@@ -112,12 +112,12 @@ section{
 }
 
 .home .content{
-  width: 55rem;
+  width: 60rem;
   padding:2rem;
 }
 
 .home .content h3{
-  font-size: 50px;
+  font-size: 45px;
   font-weight: bold;
   text-transform: uppercase;
   color: rgb(216, 188, 113);
@@ -146,12 +146,12 @@ section{
 
 .about .content span{
    font-size: 2rem;
-   color:rgb(216, 188, 113);
+   color: #fff;
 }
 
 .about .content h3{
    font-size: 3rem;
-   color: black;
+   color: rgb(216, 188, 113);
    margin-top: 1rem;
 }
 
