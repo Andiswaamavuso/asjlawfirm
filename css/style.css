@@ -420,6 +420,7 @@ border: 1px solid #666;
  .map {
    height: 250px;
    width: 100%;
+border: none;
    border-radius: 20px;
  }
  
