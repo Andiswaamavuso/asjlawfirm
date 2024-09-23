@@ -234,10 +234,9 @@ section{
 }
 
 .process .box-container .box img{
-   height: 20rem;
-   width: 30rem;
    margin:1rem 0;
-   border-radius: 10px;
+border: 1px solid #666;
+   border-radius: 50%;
 }
 
 .process .box-container .box h3{
